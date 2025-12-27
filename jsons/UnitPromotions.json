@@ -211,7 +211,7 @@
 	//The Third German Reich
 	{
 	"name": "Blitzkrieg",
-	"uniques": ["[+1] Movement <for [This Unit] units> <for [5] turns> <upon declaring war with a major Civilization>", "[1] additional attacks per turn <for [This Unit] units> <for [5] turns> <upon declaring war with a major Civilization>",
+	"uniques": ["[+1] Movement <for [This Unit] units> <for [5] turns> <upon declaring war on [Major] Civilizations>", "[1] additional attacks per turn <for [This Unit] units> <for [5] turns> <upon declaring war on [Major] Civilizations>",
 							"[+1] Movement <for [This Unit] units> <for [3] turns> <upon conquering a city>", "[1] additional attacks per turn <for [This Unit] units> <for [3] turns> <upon conquering a city>"],
 	},
 	{
@@ -404,7 +404,7 @@
 	//Romani
 	{
 		"name": "Romani Ability",
-		"uniques": ["[+33]% Strength <when defending> <for [6] turns> <upon declaring war with a major Civilization>"],
+		"uniques": ["[+33]% Strength <when defending> <for [6] turns> <upon declaring war on [Major] Civilizations>"],
 	},
 	//Micronesia
 	{
@@ -438,7 +438,7 @@
 	//China
 	{
 		"name": "PRC Ability",
-		"uniques": ["All healing effects doubled <for [12] turns> <upon declaring war with a major Civilization>"],
+		"uniques": ["All healing effects doubled <for [12] turns> <upon declaring war on [Major] Civilizations>"],
 	},
 	//Zimbabwe
 	{
