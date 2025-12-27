@@ -3894,8 +3894,8 @@
 },
 {
 	"name": "Malta",
-	"adjective": ["Maltan"],
-	"leaderName": "Jean Valette",
+	"adjective": ["Maltese"],
+	"leaderName": "Jean Parisot de la Valette",
 	"preferredVictoryType": "Cultural",
 	"favoredReligion": "Christianity",
 	"startBias": ["Coast", "Stone"],
@@ -3903,7 +3903,7 @@
 	"declaringWar": "You have chosen your path, and it leads to war. Prepare yourself, for Malta will defend its honor with every ounce of strength we possess!",
 	"attacked": "Each stone we lay in Valletta is a testament to our sacrifice; may it stand as a fortress against despair!",
 	"defeated": "Malta may fall, but our walls will tell our story for generations!",
-	"introduction": "I am Jean Valette, Grand Master of the Knights Hospitaller. Malta stands as a bulwark against tyranny, and we shall not falter in our duty to protect our realm!",
+	"introduction": "I am Jean Parisot de la Valette, Grand Master of the Knights Hospitaller. Malta stands as a bulwark against tyranny, and we shall not falter in our duty to protect our realm!",
 
 	"neutralHello": "Greetings, esteemed leader.",
 	"hateHello": "Ah, it is you. I hope your ambitions do not lead you to underestimate the resolve of Malta. We shall not be cowed by threats or treachery!",
@@ -3923,7 +3923,7 @@
 	"[+17]% City Strength from defensive buildings"],
 
 	"spyNames": ["Matteo", "Noah", "Luca", "Jack", "Ġanni", "Emma", "Valentina", "Julia", "Nina", "Joseph"],
-	"cities": ["Valletta", "Mdina", "Rabat", "Sliema", "St. Julian's", "Birkirkara", "Mosta", "St. Paul's Bay", "Qormi", "Gżira", "Marsaxlokk", "Birgu", "Bormla", "Senglea", "Siġġiewi", "Cospicua", "Victoria", "Lija", "Naxxar", "Attard", "Swieqi", "Mtarfa", "Zabbar", "Zejtun", "Floriana"],
+	"cities": ["Valletta", "Mdina", "Rabat", "Sliema", "St. Julian's", "Birkirkara", "Mosta", "St. Paul's Bay", "Qormi", "Gżira", "Marsaxlokk", "Birgu", "Senglea", "Siġġiewi", "Cospicua", "Victoria", "Lija", "Naxxar", "Attard", "Swieqi", "Mtarfa", "Żabbar", "Żejtun", "Floriana"],
 },
 {
 	"name": "Canaan",
