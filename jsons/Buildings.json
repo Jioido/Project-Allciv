@@ -1110,7 +1110,7 @@
 			"uniques": ["[+10]% Production when constructing [All] buildings [in this city]",
 			"[-25]% construction time for [Mine] improvements <in [in this city] cities>",
 			"[+1 Production] from [Iron] tiles [in this city]",
-			"[+100%] [Iron] resource production"],
+			"[+100]% [Iron] resource production"],
 			"requiredTech": "Machinery"
 		},
 		//Czechia
